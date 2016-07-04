@@ -1,7 +1,7 @@
 # Pinguino-processing
 Esta es una Libreria de Pinguino para Processing, la cual nos permitira comunicar nuestra board Pinguino con Processing, y asi poder crear interfaces graficas de forma muy facil para los proyectos de electronica con Pinguino.
 
-# Como Usuar
+# Como Usar
 
 1- Compilar y subir el codigo de pinguino desde el IDE 11 de Pinguino. el del directorio Codigo Pinguino 2550 Processing
 
